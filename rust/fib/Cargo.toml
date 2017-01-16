@@ -1,8 +1,0 @@
-[package]
-name = "fib"
-version = "0.1.0"
-authors = ["hufeng <hufeng@qianm.com>"]
-
-[lib]
-name = "fib"
-crate-type=["dylib"]

@@ -1,0 +1,14 @@
+{
+  "name": "fib",
+  "version": "0.1.0",
+  "description": "rust fib bridge to nodejs",
+  "main": "lib/index.js",
+  "author": "hufeng <hufeng@qianmi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.1.7"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
