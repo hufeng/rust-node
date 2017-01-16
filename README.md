@@ -9,4 +9,18 @@ Rust is awesome. So we can hack without fear!
 
 # FFI
 
+```sh
+#cd ffi/native/fib
+#cargo build --release
+
+# test it
+# node __test__.js
+```
+
 # Neon
+```sh
+cd neon/
+#npm run install or yarn run install
+# test it.
+#node lib/__test__.js
+```
